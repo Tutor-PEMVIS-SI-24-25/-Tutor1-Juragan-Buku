@@ -1,4 +1,3 @@
-[![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-24ddc0f5d75046c5622901739e7c5dd533143b0c8e959d652212380cedb1ea36.svg)](https://classroom.github.com/a/66cUOE93)
 # T01 Juragan Buku (Individual Assignment)
 
 Ucok dan Butet sudah sahabat sejak kecil. Keduanya bercita-cita ingin menjadi duo enterpreneur muda di masa mendatang. Akhir-akhir ini Ucok sedang memikirkan sesuatu, suatu ide besar untuk membangun sebuah start up company. Ucok terinspirasi Amazon.com, toko online yang dimulai dari menjual buku.
